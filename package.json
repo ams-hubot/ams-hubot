@@ -5,6 +5,7 @@
   "author": "mrboo <takuyam0111@yahoo.co.jp>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "coffee-script": "^1.12.7",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.2",
     "hubot-google-images": "^0.2.7",
@@ -14,10 +15,12 @@
     "hubot-maps": "0.0.3",
     "hubot-pugme": "^0.1.1",
     "hubot-redis-brain": "0.0.4",
+    "hubot-rss-reader": "^0.8.3",
     "hubot-rules": "^0.1.2",
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.1",
-    "hubot-slack": "^4.5.2"
+    "hubot-slack": "^4.5.2",
+    "proxy-agent": "^3.0.1"
   },
   "engines": {
     "node": "9.6.1",
