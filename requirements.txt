@@ -1,0 +1,5 @@
+pip install slackbot
+pip install botty_mcbotface
+
+[URL]
+・https://github.com/lins05/slackbot
