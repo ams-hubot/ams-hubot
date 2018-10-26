@@ -3,3 +3,13 @@ pip install botty_mcbotface
 
 [URL]
 ・https://github.com/lins05/slackbot
+
+[arXiv API]
+・https://arxiv.org/help/api/user-manual#search_query_and_id_list
+
+[API TOKEN]
+slack app directoryと検索
+
+[USER TOKEN]
+レガシートークン
+https://api.slack.com/custom-integrations/legacy-tokens
